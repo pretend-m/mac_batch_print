@@ -1,13 +1,13 @@
 # 简单的mac端批量调用打印机的脚本
 
 ## 简介
-1.本项目是一个简单的批量调用打印机来打印文件的脚本
-2.目前只支持PDF格式
-3.目前无法自定义一些参数，只支持默认打印
+- 本项目是一个简单的批量调用打印机来打印文件的脚本
+- 目前只支持PDF格式
+- 目前无法自定义一些参数，只支持默认打印
 
 ## 使用说明
-2.直接双击执行start.command脚本即可
-3.使用双击执行reset_navicat.command注意事项: 
+- 直接双击执行start.command脚本即可
+- 使用双击执行reset_navicat.command注意事项:
 1.reset_navicat.command与reset_navicat.sh需在同一目录下。
 2.初次使用需要授权安全性。
 3.如弹出无权限请进入终端，移动到当前文件夹，输入`sudo chmod -R 777 reset_navicat.command`回车(需要输入本机密码)。然后则重新双击执行reset_navicat.command
