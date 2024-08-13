@@ -7,10 +7,10 @@
 
 ## 使用说明
 - 直接双击执行start.command脚本即可
-- 使用双击执行reset_navicat.command注意事项:
-1.reset_navicat.command与reset_navicat.sh需在同一目录下。
+- 使用双击执行start.command注意事项:
+1.start.command与choose_file.scpt需在同一目录下。
 2.初次使用需要授权安全性。
-3.如弹出无权限请进入终端，移动到当前文件夹，输入`sudo chmod -R 777 reset_navicat.command`回车(需要输入本机密码)。然后则重新双击执行reset_navicat.command
+3.如弹出无权限请进入终端，移动到当前文件夹，输入`sudo chmod -R 777 start.command`回车(需要输入本机密码)。然后则重新双击执行start.command
 
 ## 免责声明
 
@@ -20,5 +20,3 @@
 
 - **本脚本适用于mac系统，不适用于windows**
 - **如果遇到bug问题，请反馈issue给我**
-
-## 使用说明
